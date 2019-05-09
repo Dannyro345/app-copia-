@@ -19,7 +19,7 @@ export class HomePage {
     {
       "titulo": "Igreja Matriz",
       "subtitulo": "Paróquia Nossa Senhora dos Humildes",
-      "descricao": "O monumento é aberto à visitação e caiu no gosto da população que tem ido rotineiramente ao local.",
+      "descricao": "O monumento é aberto à visitação e caiu no gosto da população que tem ido rotineiramente ao local para um momento de fe.",
       "imagem": "http://dp15.com/wp-content/uploads/sites/76/2013/08/52.jpg",
       "like": "50",
       "deslike": "1"
